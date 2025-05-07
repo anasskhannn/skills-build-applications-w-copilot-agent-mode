@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-#j^0t-3b4@hshv+*su^$wp$@1lwxyzx&+@3m%qb1o(3+hy6y5i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ['didactic-goldfish-9vqpwq676grc7rrp-8000.app.github.dev', 'localhost']
 
 
 # Application definition
